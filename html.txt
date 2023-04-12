@@ -1,0 +1,973 @@
+"""<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<APM_DO_NOT_TOUCH>
+
+<script type="text/javascript">
+(function(){
+window.NdQq=!!window.NdQq;try{(function(){(function(){var s={decrypt:function(s){try{return JSON.parse(function(s){s=s.split("l");var _="";for(var J=0;J<s.length;++J)_+=String.fromCharCode(s[J]);return _}(s))}catch(J){}}};return s={configuration:s.decrypt("123l34l97l99l116l105l118l101l34l58l34l110l111l34l44l34l100l101l98l117l103l103l105l110l103l34l58l34l110l111l34l44l34l109l111l100l117l108l101l49l34l58l34l101l110l97l98l108l101l100l34l44l34l109l111l100l117l108l101l50l34l58l34l101l110l97l98l108l101l100l34l44l34l109l111l100l117l108l101l51l34l58l34l101l110l97l98l108l101l100l34l44l34l109l111l100l117l108l101l52l34l58l34l101l110l97l98l108l101l100l34l125")}})();
+var is=18;try{var ls,Ls,Zs=S(805)?1:0;for(var sS=(S(246),0);sS<Ls;++sS)Zs+=(S(161),3);ls=Zs;window.Jj===ls&&(window.Jj=++ls)}catch(iS){window.Jj=ls}var IS=!0;function I(s){var _=arguments.length,J=[],O=1;while(O<_)J[O-1]=arguments[O++]-s;return String.fromCharCode.apply(String,J)}function LS(s){var _=73;!s||document[L(_,191,178,188,178,171,178,181,178,189,194,156,189,170,189,174)]&&document[I(_,191,178,188,178,171,178,181,178,189,194,156,189,170,189,174)]!==l(68616527593,_)||(IS=!1);return IS}
+function L(s){var _=arguments.length,J=[];for(var O=1;O<_;++O)J.push(arguments[O]-s);return String.fromCharCode.apply(String,J)}function OS(){}LS(window[OS[L(is,128,115,127,119)]]===OS);LS(typeof ie9rgb4!==l(1242178186181,is));LS(RegExp("\x3c")[I(is,134,119,133,134)](function(){return"\x3c"})&!RegExp(I(is,138,69,118))[l(1372187,is)](function(){return"'x3'+'d';"}));
+var zS=window[I(is,115,134,134,115,117,122,87,136,119,128,134)]||RegExp(L(is,127,129,116,123,142,115,128,118,132,129,123,118),L(is,123))[l(1372187,is)](window["\x6e\x61vi\x67a\x74\x6f\x72"]["\x75\x73e\x72A\x67\x65\x6et"]),s_=+new Date+(S(753)?6E5:716448),S_,I_,j_,J_=window[I(is,133,119,134,102,123,127,119,129,135,134)],L_=zS?S(236)?3E4:41874:S(407)?6E3:7258;
+document[L(is,115,118,118,87,136,119,128,134,94,123,133,134,119,128,119,132)]&&document[L(is,115,118,118,87,136,119,128,134,94,123,133,134,119,128,119,132)](I(is,136,123,133,123,116,123,126,123,134,139,117,122,115,128,121,119),function(s){var _=19;document[L(_,137,124,134,124,117,124,127,124,135,140,102,135,116,135,120)]&&(document[L(_,137,124,134,124,117,124,127,124,135,140,102,135,116,135,120)]===l(1058781964,_)&&s[L(_,124,134,103,133,136,134,135,120,119)]?j_=!0:document[L(_,137,124,134,124,117,
+124,127,124,135,140,102,135,116,135,120)]===l(68616527647,_)&&(S_=+new Date,j_=!1,o_()))});function o_(){if(!document[I(44,157,161,145,158,165,127,145,152,145,143,160,155,158)])return!0;var s=+new Date;if(s>s_&&(S(735)?6E5:827215)>s-S_)return LS(!1);var _=LS(I_&&!j_&&S_+L_<s);S_=s;I_||(I_=!0,J_(function(){I_=!1},S(548)?1:0));return _}o_();var Z_=[S(927)?18840126:17795081,S(68)?27611931586:2147483647,S(923)?2147483647:1558153217];function l(s,_){s+=_;return s.toString(36)}
+function Si(s){var _=35;s=typeof s===l(1743045641,_)?s:s[L(_,151,146,118,151,149,140,145,138)](S(502)?36:28);var J=window[s];if(!J||!J[I(_,151,146,118,151,149,140,145,138)])return;var O=""+J;window[s]=function(s,_){I_=!1;return J(s,_)};window[s][L(_,151,146,118,151,149,140,145,138)]=function(){return O}}for(var _i=(S(757),0);_i<Z_[l(1294399187,is)];++_i)Si(Z_[_i]);LS(!1!==window[L(is,96,118,99,131)]);window.LI=window.LI||{};window.LI.J_S="08817f3a9516e800d0493ccdc94ee71199ce670e3fd8698fe879805da274873c840b5ac605432a4b87960d9542fd859ed9093f7dcbbb96625feaabf49a67c1201aa076fb0f45b8be1ec7d1d5b56d84cef212b0b58353b8c94eb9c388ec83373d309f6f7394377215748588a29112aabafb3787f2756c6358d33b1d1106d21a0576aaebbafe8219981e38542d272befe82fb93d051199a222d9f37db09a25f0b0f6a7ef97caf84395cc0b0c664c89163581361f870be02206e9adc038b12e65219627ad4a417f26637e10ac695abe12cad7a413b1ff79ff93a1da3ed547eb13adc2c92def3a9c52779c3aae2f5ca55907";
+function ii(s){var _=+new Date,J;!document[L(81,194,198,182,195,202,164,182,189,182,180,197,192,195,146,189,189)]||_>s_&&(S(626)?6E5:513264)>_-S_?J=LS(!1):(J=LS(I_&&!j_&&S_+L_<_),S_=_,I_||(I_=!0,J_(function(){I_=!1},S(759)?1:0)));return!(arguments[s]^J)}function S(s){return 887>s}(function Ji(_){_&&"number"!==typeof _||("number"!==typeof _&&(_=1E3),_=Math.max(_,1),setInterval(function(){Ji(_-10)},_))})(!0);})();}catch(x){}finally{ie9rgb4=void(0);};function ie9rgb4(a,b){return a>>b>>0};
+
+})();
+
+</script>
+</APM_DO_NOT_TOUCH>
+
+<script type="text/javascript" src="/TSPD/0874148b5fab2000d6defd7b38606be6c88551cfcf9c41941ae33279526d6184d32ae8be4147c4d8?type=17"></script>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Reserve Bank of India - Database</title>
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <meta name="viewport" content="width=device-width" />
+    <script type="text/javascript" src="/js/libs/modernizr-2.5.3.min.js"></script>
+</head>
+<body>
+    <form method="post" action="./bs_viewcontent.aspx?Id=2009" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc5NzUyMTI0NWRkK3aEgkJ2S0eslRjOIEzzTfrdvW32/YNdkW1HsEcdesE=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="172DD500" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAYMMKF0S7qE1d4AVnHEvKy5i6wX7g7V+51d5y/uZ409MWQ6cu1iZ73N7YF2NPAmCyQ/q33cCQLgaFQSElESF1pcfcX9ZaEV78oETjPwNTvjRyaLpyghhgB3dOM81YQT2c82I2vaZ7FDIVHvf56Gm3wi8ORVQN6b5jkFo0l36zcAcw==" />
+</div>
+    
+<link href="/JQuery/css/jquery-ui-1.8.18.custom2.css" rel="stylesheet" type="text/css" />
+<link href="/includes/print.css" rel="stylesheet" media="print" type="text/css" />
+
+<link href="/Styles/960.css" rel="stylesheet" type="text/css" />
+<link href="/Includes1/rbi.css?v=2.0" rel="Stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/libs/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/JQuery/ui/jquery.ui.revampRBI.js"></script>
+<script type="text/javascript" src="/js/ImgSaveDisable.js"></script>
+<!--<script src='//tw.netcore.co.in/smartechclient.js'></script>
+<script>
+smartech('create', 'ADGMOT35CHFLVDHBJNIG50K968AU3Q5FOE3L6REE67CQ9HGBQ58G');
+smartech('register', '4d6884e503ecf55a3339a37e98b711da');
+smartech('identify', '');
+smartech('dispatch', 1, { });
+</script>-->
+<script type="text/javascript">
+
+//Redirect to mobile site start
+    function detectmob() {
+        if (screen.width <= 599 || screen.Height <= 975) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    if (detectmob()) {
+       window.location.href = "https://m.rbi.org.in" + window.location.pathname;
+		
+       
+    }
+	//Redirect to mobile site End
+    $(document).ready(function () {
+        Search();
+    });
+
+    function Search() {
+        highlightTextAutocomplete();
+        $(".autoSuggest").autocomplete({
+
+
+            source: function (request, response) {
+                var param = { keyWord: document.getElementById('txtSearch').value };
+
+                $.ajax({
+                    url: "../Home.aspx/GetKeywords",
+                    data: JSON.stringify(param),
+                    dataType: "json",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    dataFilter: function (data) { return data; },
+                    success: function (data) {
+
+                        if (data.d.length > 0) {
+                            response($.map(data.d, function (item) {
+                                return {
+                                    value: RemoveSpecialChars(item)
+
+                                }
+                            }))
+                        }
+                        else {
+                            response([{ label: "No results found", value: ""}]);
+                        }
+                    },
+                    error: function (XMLHttpRequest, textStatus, errorThrown) {
+                        alert(textStatus);
+                    }
+                });
+            },
+
+            //            select: function (event, ui) {
+            //                if (ui.item.value != "") {
+            //                    window.open("/scripts/SearchResults.aspx?search=" + ui.item.value, '_blank');
+            //                }
+            //            },
+            minLength: 3
+
+        });
+    }
+
+    function highlightTextAutocomplete() {
+
+        var oldFn = $.ui.autocomplete.prototype._renderItem;
+
+        $.ui.autocomplete.prototype._renderItem = function (ul, item) {
+
+            var t = String(item.value).replace(
+                new RegExp(this.term, "gi"),
+                "<span class='ui-state-highlight'>$&</span>");
+            if (item.value != "") {
+                return $("<li class='borderAutocomplete'></li>")
+                  .data("item.autocomplete", item)
+                  .append("<a>" + t + "</a>")
+                  .appendTo(ul);
+            }
+
+            else {
+                return $("<li></li>")
+                  .data("item.autocomplete", item)
+                  .append("")
+                  .appendTo(ul);
+            }
+        };
+    }
+
+
+    function RemoveSpecialChars(inputText) {
+        var filteredString = inputText.replace(/[\*\^\'\!\@\$\.\#\(\)\-\?\<\>\;\"\&\+\{\}\:]/g, '');
+        //alert(filteredString);
+        return filteredString;
+    }
+    //    jQuery(document).ready(function () {
+    //        var xmlhttp;
+    //        jQuery("#txtSearch").autocomplete(
+    //                    {
+    //                        minLength: 3,
+    //                        delay: 0,
+    //                        source: function (request, response) {
+    //                            if (!xmlhttp) {
+    //                                if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+    //                                    xmlhttp = new XMLHttpRequest();
+    //                                }
+    //                                else {// code for IE6, IE5
+    //                                    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    //                                }
+    //                            }
+    //                            else if (xmlhttp.readyState != 0) {
+    //                                xmlhttp.abort();
+    //                            }
+    //                            xmlhttp.onreadystatechange = function () {
+    //                                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+    //                                    fetchedKeywords = xmlhttp.responseText.split("'");
+    //                                    
+    //                                    if (fetchedKeywords.length > 10) {
+    //                                        fetchedKeywords.splice(10, fetchedKeywords.length - 10);
+    //                                    }
+    //                                    if (fetchedKeywords != "") response(fetchedKeywords);
+    //                                    else response(null);
+    //                                }
+    //                            }
+    //                            var input = document.getElementById("txtSearch").value;
+    //                            xmlhttp.open("POST", "/Webservice/KeywordSearch.ashx?q=" + input, true);
+    //                            xmlhttp.send();
+    //                        }
+    //                    });
+    //    });
+
+    function LoadSearchData(id, key) {
+        if (id == "txtSearch") {
+            if (key == 13) {
+                validateSearchText();
+                return false;
+            }
+        }
+        else validateSearchText();
+        return true;
+    }
+    function validateSearchText() {
+        if (validation()) {
+            var strloc = new String(document.location.href.toString());
+            if (strloc.indexOf("SearchResults.aspx") == -1) {//             
+                window.open("/scripts/SearchResults.aspx?search=" + document.getElementById("txtSearch").value);
+            }
+            else window.open("/scripts/SearchResults.aspx?search=" + document.getElementById("txtSearch").value, '_parent');
+        }
+    }
+    function validation() {
+        strSearch = trim(document.getElementById('txtSearch').value);
+        if (strSearch == "") { alert('Please enter the search text'); return false; }
+        else {
+            //var strFilterChars = new RegExp("[~`!@#$%^&*()_+-={}\\[\\]:/\\\\\";|'<>,.?]");
+            var strFilterChars = new RegExp("^[0-9a-zA-Z ]*$");
+            if (!strFilterChars.test(strSearch)) { alert("Please remove special characters from search text"); return false; }
+        }
+        return true;
+    }
+    function trim(value) {
+        value = value.replace(/^\s+/, '');
+        value = value.replace(/\s+$/, '');
+        return value;
+    }
+</script>
+
+    <style type="text/css">
+    .blink_msm1 
+{
+    -webkit-animation-name: blinker;
+    -webkit-animation-duration: 3s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+
+    -moz-animation-name: blinker;
+    -moz-animation-duration: 3s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: infinite;
+
+    animation-name: blinker;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@-moz-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@-webkit-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+</style>
+<div class="top_setting">
+    <div class="container_12">
+        <div class="grid_5 top_settings">
+            <a href="#mainsection">Skip to main content </a>
+        </div>
+        <div id="UsrFontCntr_tblThemes" style="float: right" class="grid_4 prefix_3 top_settings">
+            <span class="fonts">
+                <a id="UsrFontCntr_LinkBtnFontIncrease" title="Increase Font Size" href="javascript:__doPostBack(&#39;UsrFontCntr$LinkBtnFontIncrease&#39;,&#39;&#39;)" style="text-decoration:none;"><img src="/images/font-increase.gif" alt="Increase Font Size"/></a></span>
+            <span class="fonts">
+                <a id="UsrFontCntr_LinkBtnFontRegular" class="aspNetDisabled" title="Regular Font Size" style="text-decoration:none;"><img src="/images/font-reset.gif" alt="Regular Font Size"/></a></span>
+            <span class="fonts">
+                <a id="UsrFontCntr_LinkBtnFontDecrease" title="Decrease Font Size" href="javascript:__doPostBack(&#39;UsrFontCntr$LinkBtnFontDecrease&#39;,&#39;&#39;)" style="text-decoration:none;"><img src="/images/font-decrease.gif" alt="Decrease Font Size"/></a></span>
+            <span class="black">
+                <a id="UsrFontCntr_LinkBtnAccessibilty" title="Apply Dark Theme" href="javascript:__doPostBack(&#39;UsrFontCntr$LinkBtnAccessibilty&#39;,&#39;&#39;)" style="text-decoration:none;"><img src="/images/dark-theme.gif" alt="Apply Dark Theme"/></a></span>
+            <span class="white">
+                <a id="UsrFontCntr_LinkBtnUndoAccessibilty" class="aspNetDisabled" title="Apply Normal Theme" style="text-decoration:none;"><img src="/images/bright-theme.gif" alt="Apply Normal Theme"/></a></span>
+            <a onclick="javascript:window.print();" id="A1" title="Print This Page">
+                <img src="/images/print-icon.png" alt="Print this page" class="print" /></a>
+            <div style="float: right">
+                <label style="margin-right: 6px;color: #000000;">
+                    Language</label><a class="lnk-language" id="lnkhindi" title="Hindi site" href="https://www.rbi.org.in/hindi/Home.aspx">हिंदी</a></div>
+                    
+        </div>
+        <div class="clearfix">
+        </div>
+    </div>
+</div>
+<div class="container_12">
+    <div class="grid_4" role="banner">
+        <h1 class="logo">
+            <a href="/home.aspx">
+                <img src="/images/rbi-company-logo.jpg" alt="Reserve Bank of India" /></a></h1>
+    </div>
+    <div class="grid_5" align="right" role="search" style="float: right">
+        <label for="searchbox" class="search_label">
+            Search the Website</label>
+        <input name="UsrFontCntr$txtSearch" type="text" maxlength="103" id="txtSearch" class="search_box autoSuggest" onkeydown="return LoadSearchData(&#39;txtSearch&#39;,event.keyCode);" placeHolder="Search" />
+        <button id="btnSearch" onclick="return LoadSearchData('btnSearch',event.keyCode);"
+            type="button" class="search_button">
+            Search</button>
+    </div>
+	<div class="grid_2" align="CENTER" role="" style="float: right">
+        <h1 class="logo">
+            <a>
+                <img src="../images/AzadLogo.png" alt="AzadLogo" style="padding-top: 10px;">
+            </a>
+        </h1>
+    	</div>
+    <div class="clearfix">
+    </div>
+</div>
+<!--  NAVIGATION START-->
+<nav role="navigation">
+       <div class="top-newmenu">
+		<div class="midmenu">
+        <ul>
+			  <li><a href="https://rbi.org.in/home.aspx">Home</a></li>
+			  <li><a href="../Scripts/AboutusDisplay.aspx">About Us</a></li>
+			  <li><a href="../Scripts/NotificationUser.aspx">Notifications</a></li>			
+			  <li><a href="../Scripts/BS_PressReleaseDisplay.aspx">Press Releases</a></li>
+			  
+
+            <li><a href="#">Speeches & Interviews <img src="/images/down.gif" class="downarrowclass" style="border:0; padding-left: 5px"></a>
+                <ul>
+                  <li><a href="../Scripts/BS_ViewSpeeches.aspx">Speeches</a></li>
+                  <li><a href="../Scripts/BS_ViewInterviews.aspx">Interviews</a></li>
+                  <li><a href="../Scripts/Lectures.aspx">Memorial Lectures</a></li>
+                </ul>
+              </li>
+              
+              <li><a href="#">Publications <img src="/images/down.gif" class="downarrowclass" style="border:0; padding-left: 5px"></a>
+                <ul>
+                  <li><a href="../Scripts/Publications.aspx?publication=Annual">Annual</a></li>
+                  <li><a href="../Scripts/Publications.aspx?publication=HalfYearly">Half-Yearly</a></li>
+                  <li><a href="../Scripts/Publications.aspx?publication=Quarterly">Quarterly</a></li>
+		          <li><a href="../Scripts/Publications.aspx?publication=Bimonthly">Bi-monthly</a></li>
+                  <li><a href="../Scripts/Publications.aspx?publication=Monthly">Monthly</a></li>
+                  <li><a href="../Scripts/Publications.aspx?publication=Weekly">Weekly</a></li>
+                  <li><a href="../Scripts/Publications.aspx?publication=Occasional">Occasional</a></li>
+                   <li><a href="../Scripts/Publications.aspx?publication=Reports">Reports</a></li>
+		            <li><a href="../Scripts/OccasionalPublications.aspx?head=Working Papers">Working Papers</a></li>
+	   	            
+
+                </ul>
+              </li>
+
+			  
+             <li><a href="../Scripts/Act_Laws.aspx">Acts and Laws</a></li>
+            	
+	     
+		<li><a href="#">Research <img src="/images/down.gif" class="downarrowclass" style="border:0; padding-left: 5px"></a>
+	        <ul>
+                <li><a href="/Scripts/ExternalResearchSchemes.aspx">External Research Schemes</a></li>
+                <li><a href="/Scripts/OccasionalPapers.aspx">RBI Occasional Papers</a></li>
+                <li><a href="/Scripts/OccasionalPublications.aspx?head=Working%20Papers">Working Papers</a></li>
+                <li><a href="/Scripts/BS_ViewBulletin.aspx">RBI Bulletin</a></li>
+	            <li><a href="/Scripts/Project1.aspx">History</a></li>
+                <li><a href="/Scripts/Occas_DRG_Studies.aspx">DRG Studies</a></li>
+                <li><a href="/Scripts/KLEMS.aspx">KLEMS</a></li>
+		        <li><a href="/Scripts/StateStatisticsFinances.aspx">State Statistics and Finances</a></li>
+                </ul>
+           </li>
+	    
+              <li><a href="#">Statistics <img src="/images/down.gif" class="downarrowclass" style="border:0; padding-left: 5px"></a>
+                <ul>
+                  <li><a href="../Scripts/Statistics.aspx">Data Releases</a></li>
+                  <li><a href="https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home" target="_blank">Database on Indian Economy</a></li>
+                  <li><a href="/scripts/FS_PDS.aspx">Public Debt Statistics</a></li>
+                </ul>
+              </li>
+
+              <li><a href="#">Regulatory Reporting<img src="/images/down.gif" class="downarrowclass" style="border:0; padding-left: 5px"></a>
+				 <ul>
+					<li><a href="../scripts/BS_Listofallreturns.aspx">List of Returns</a></li>
+					
+                    <li><a href="../scripts/DataDefinition.aspx">Data Definition</a>
+                        <!--<ul>
+                            <li><a href="../scripts/Assets.aspx">Assets</a></li>
+							<li><a href="../Scripts/Liabilities.aspx">Liabilities</a></li>	
+							<li><a href="../Scripts/OffBalanceSheetItems.aspx">Off-Balance Sheet Items</a></li>
+							<li><a href="../Scripts/ProfitandLossAccountItems.aspx">Profit and Loss Account Items</a></li>
+							<li><a href="../Scripts/Miscellaneous.aspx">Miscellaneous</a></li>
+                        </ul>-->
+                    </li>
+
+					<li><a href="../scripts/ValidationRules.aspx">Validation rules/ Taxonomy</a></li>
+					<li><a href="../scripts/ReportingPlaform.aspx">List of RBI Reporting Portals</a></li>
+					<li><a href="../scripts/ReportingFAQ.aspx">FAQs of RBI Reporting Portals</a></li>
+
+
+                </ul>
+             </li>
+
+
+              
+
+        </ul>
+    
+ </div>
+</div>
+</nav>
+<!--  NAVIGATION END-->
+<!--HEADER END-->
+<input type="submit" name="UsrFontCntr$btn" value="" id="btn" style="visibility: hidden; height: 0px; width: 0px;" />
+
+
+    <div>
+        <div class="container_12">
+            <a id="mainsection" name="mainsection"></a>
+            <div class="grid_12 breadcrumbs">
+                <ul>
+                    <li><a href="../Home.aspx">Home</a></li>
+                    
+                    <li><a>Payment and Settlement Systems</a></li> <li><a href="FS_UsefulInfoCustomer.aspx?fn=9"> Information Useful to Customer</a></li>
+                </ul>
+            </div>
+            <div class="clear">
+            </div>
+            <div class="grid_12 omega">
+                
+                <div id="example-min" class="text1">
+                    <div>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0" class = "tablebg">
+                            <tr><th>List of NEFT enabled bank Branches (Bank-wise Indian Financial System Code) updated as on Feb 28, 2023</th></tr><tr><td><table width="70%" border="0" align="center" cellpadding="0" cellspacing="1" class="tablebg">  <tr>    <td width="3%" align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td width="97%"><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_02.xlsx" class="links">Abhyudaya Cooperative Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_76.xlsx" class="links">Ahmedabad Mercantile Cooperative Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_240.xlsx" class="links">Ahmednagar Merchants Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_194.xlsx" class="links">Airtel Payments Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_161.xlsx" class="links">Akola Janata Commercial Cooperative Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_105.xlsx" class="links">Almora Urban Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_227.xlsx" class="links">Ambarnath Jaihind Cooperative Bank Limited, Ambarnath</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_141.xlsx" class="links">Andhra Pragathi Grameena Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_229.xlsx" class="links">Andhra Pradesh Grameena Vikas Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_106.xlsx" class="links">Apna Sahakari Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_269.xls" class="links">Arvind Sahakari Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_107.xlsx" class="links">Australia and New Zealand Banking Group Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_204.xlsx" class="links">AU Small Finance Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_05.xlsx" class="links">Axis Bank</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_178.xlsx" class="links">Bandhan Bank Limited</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_06.xlsx" class="links">Bank of America</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_07.xlsx" class="links">Bank of Bahrein and Kuwait</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_08.xlsx" class="links">Bank of Baroda</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_09.xlsx" class="links">Bank of Ceylon</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_10.xlsx" class="links">Bank of India</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_11.xlsx" class="links">Bank of Maharashtra</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_13.xlsx" class="links">Barclays Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_14.xlsx" class="links">Bassein Catholic Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_228.xlsx" class="links">Bhagini Nivedita Sahakari Bank Limited, Pune</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_77.xlsx" class="links">Bharat Cooperative Bank Mumbai Limited</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_271.xlsx" class="links">Bombay Mercantile Cooperative Bank Ltd</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_15.xlsx" class="links">BNP Paribas Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_16.xlsx" class="links">Canara Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_192.xlsx" class="links">Capital Small Finance Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>  <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_18.xlsx" class="links">Central Bank of India</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_283.xlsx" class="links">Chhattisgarh Rajya Gramin Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_20.xlsx" class="links">CITI Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_21.xlsx" class="links">Citizen Credit Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_22.xlsx" class="links">City Union Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_266.xlsx" class="links">Coastal Local Area Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_24.xlsx" class="links">Credit Agricole Corporate and Investment Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_109.xlsx" class="links">Credit Suisse AG</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_251.xlsx" class="links">CSB Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_253.xlsx" class="links">CTBC Bank Co Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_279.xlsx" class="links">Darussalam Cooperative Urban Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_25.xlsx" class="links">DBS Bank India Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_28.xlsx" class="links">DCB Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_189.xlsx" class="links">Deogiri Nagari Sahakari Bank Limited, Aurangabad</a></td>  </tr>  <tr><td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_172.xlsx" class="links">Deposit Insurance and Credit Guarantee Corporation</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_27.xlsx" class="links">Deustche Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_29.xlsx" class="links">Dhanalakshmi Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_213.xlsx" class="links">DMK Jaoli Bank</a></td>  </tr>  <tr><td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_174.xlsx" class="links">Doha Bank QSC</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_31.xlsx" class="links">Dombivli Nagari Sahakari Bank Limited</a></td>  </tr>          <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_218.xlsx" class="links">Durgapur Steel Peoples Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_210.xlsx" class="links">Emirates NBD Bank P J S C</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_200.xlsx" class="links">Esaf Small Finance Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_193.xlsx" class="links">Equitas Small Finance Bank Limited</a></td>  </tr>  <tr><td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_175.xlsx" class="links">Export Import Bank of India</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_79.xlsx" class="links">Federal Bank</a></td>  </tr>      <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_209.xlsx" class="links">Fincare Small Finance Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_207.xlsx" class="links">FINO Payments Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_32.xlsx" class="links">Firstrand Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_211.xlsx" class="links">First Abu Dhabi Bank PJSC</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_56.xlsx" class="links">G P Parsik Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_231.xlsx" class="links">GS Mahanagar Cooperative Bank Limited, Mumbai</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_33.xlsx" class="links">HDFC Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_237.xlsx" class="links">Haryana State Cooperative Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_188.xlsx" class="links">Himachal Pradesh State Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_34.xlsx" class="links">HSBC Bank</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_280.xlsx" class="links">Hutatma Sahakari Bank Ltd</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_35.xlsx" class="links">ICICI Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_36.xlsx" class="links">IDBI Bank</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_180.xlsx" class="links">IDFC First Bank Limited</a></td>  </tr>   <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td class="links"><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_195.xlsx" class="links">Idukki District Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td class="links"><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_37.xlsx" class="links">Indian Bank</a></td>  </tr>   <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td class="links"><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_224.xlsx" class="links">India Post Payment Bank</a></td>  </tr>   <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td class="links"><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_39.xlsx" class="links">Indusind Bank</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td class="links"><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_38.xlsx" class="links">Indian Overseas Bank</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td class="links"><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_154.xlsx" class="links">Industrial and Commercial Bank of China Limited</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_181.xlsx" class="links">Industrial Bank of Korea</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_232.xlsx" class="links">Irinjalakuda Town Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_111.xlsx" class="links">Jalgaon Janata Sahkari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_81.xlsx" class="links">Jammu and Kashmir Bank Limited</a></td>  </tr>    <tr><td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_176.xlsx" class="links">Janakalyan Sahakari Bank Limited</a></td>  </tr>   <tr><td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_225.xlsx" class="links">Jana Small Finance Bank Limited</a></td>  </tr>   <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_157.xlsx" class="links">Janaseva Sahakari Bank (Borivli) Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_42.xlsx" class="links">Janaseva Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_112.xlsx" class="links">Janata Sahakari Bank Limited (Pune)</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_272.xlsx" class="links">Janatha Seva Cooperative Bank Ltd</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_219.xlsx" class="links">Jio Payments Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_145.xlsx" class="links">JP Morgan Chase Bank NA</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_113.xlsx" class="links">Kallappanna Awade Ichalkaranji Janata Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_84.xlsx" class="links">Kalyan Janata Sahakari Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_82.xlsx" class="links">Kalupur Commercial Cooperative Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_44.xlsx" class="links">Karnataka Bank Limited</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_260.xlsx" class="links">Karnataka Gramin Bank</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_121.xlsx" class="links">Karnataka Vikas Grameena Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_45.xlsx" class="links">Karur Vysya Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_184.xlsx" class="links">KEB Hana Bank</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_170.xlsx" class="links">Kerala Gramin Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_261.xlsx" class="links">Kookmin Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_46.xlsx" class="links">Kotak Mahindra Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_208.xlsx" class="links">Kozhikode District Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_191.xlsx" class="links">Maharashtra Gramin Bank</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_48.xlsx" class="links">Maharashtra State Cooperative Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_239.xlsx" class="links">Mahesh Sahakari Bank Limited Pune</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_49.xlsx" class="links">MashreqBank PSC</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_50.xlsx" class="links">Mizuho Bank Limited</a></td>  </tr>      <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_264.xlsx" class="links">Model Co-operative Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_226.xlsx" class="links">MUFG Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_160.xlsx" class="links">Nagar Urban Cooperative Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_223.xlsx" class="links">National Bank for Agriculture and Rural Development</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_123.xlsx" class="links">Nagpur Nagarik Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_245.xlsx" class="links">Nav Jeevan Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_51.xlsx" class="links">New India Cooperative Ban Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_52.xlsx" class="links">NKGSB Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_214.xlsx" class="links">North East Small Finance Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_234.xlsx" class="links">NSDL Payments Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_53.xlsx" class="links">Nutan Nagarik Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_284.xlsx" class="links">Pavana Sahakari Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_205.xlsx" class="links">Paytm Payments Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_116.xlsx" class="links">Prime Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_190.xlsx" class="links">PT Bank Maybank Indonesia TBK</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_57.xlsx" class="links">Punjab and Maharashtra Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_58.xlsx" class="links">Punjab and Sind Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_59.xlsx" class="links">Punjab National Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_212.xlsx" class="links">Qatar National Bank SAQ</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_117.xlsx" class="links">Rabobank International</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_220.xlsx" class="links">Rajarambapu Sahakari Bank Limited</a></td>  </tr>      <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_262.xlsx" class="links">Rajarshi Shahu Sahakari Bank Limited, Pune</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_250.xlsx" class="links">Rajasthan Marudhara Gramin Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_159.xlsx" class="links">Rajgurunagar Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_60.xlsx" class="links">Rajkot Nagarik Sahakari Bank Limited</a></td>  </tr>      <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_274.xlsx" class="links">Rajnandgaon District Central Co-operative Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_88.xlsx" class="links">RBL Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_61.xlsx" class="links">Reserve Bank of India</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_186.xlsx" class="links">Samarth Sahakari Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_246.xlsx" class="links">Sant Sopankaka Sahakari Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_252.xlsx" class="links">Saraspur Nagrik Cooperative Bank Limited, Saraspur</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_90.xlsx" class="links">Saraswat Cooperative Bank Limited</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_258.xlsx" class="links">Satara Sahakari Bank Limited</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_287.xlsx" class="links">Saurashtra Gramin Bank</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_137.xlsx" class="links">SBER Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_235.xlsx" class="links">SBM Bank India Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_166.xlsx" class="links">Shikshak Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_62.xlsx" class="links">Shinhan Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_187.xlsx" class="links">Shivalik Mercantile Cooperative Bank Limited</a></td>  </tr>      <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_289.xlsx" class="links">Shivalik Small Finance Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_136.xlsx" class="links">Shri Chhatrapati Rajashri Shahu Urban Cooperative Bank Limited</a></td>  </tr>        <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_236.xlsx" class="links">Shri Veershaiv Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_286.xlsx" class="links">Shree Kadi Nagarik Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_282.xlsx" class="links">Smriti Nagrik Sahakari Bank Maryadit</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_233.xlsx" class="links">Sir M Visvesvaraya Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_63.xlsx" class="links">Societe Generale</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_153.xlsx" class="links">Solapur Janata Sahkari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_64.xlsx" class="links">South Indian Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif" border="0"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_273.xlsx" target="_blank" class="links">Sree Charan Souhardha Cooperative Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_65.xlsx" class="links">Standard Chartered Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_68.xlsx" class="links">State Bank of India</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_265.xlsx" target="_blank" class="links">Suco Souharda Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_142.xlsx" class="links">Sumitomo Mitsui Banking Corporation</a></td>  </tr>   <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_179.xlsx" class="links">Surat National Cooperative Bank Limited</a></td>  </tr>   <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_201.xlsx" class="links">Suryoday Small Finance Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_129.xlsx" class="links">Sutex Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_74.xlsx" class="links">Tamilnad Mercantile Bank Limited</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_196.xlsx" class="links">Telangana State Coop Apex Bank</a></td>  </tr>   <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_203.xlsx" class="links">Textile Traders Cooperative Bank Limited</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_244.xlsx" class="links">The Ajara Urban Cooperative Bank Limited, Ajara</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_119.xlsx" class="links">The A.P. Mahesh Cooperative Urban Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_147.xlsx" class="links">The Akola District Central Cooperative Bank</a></td>  </tr>      <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_281.xlsx" class="links">The Akola Urban Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_277.xlsx" class="links">The Ahmednagar District Central Co-Operative Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_101.xlsx" class="links">The Andhra Pradesh State Coop Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_75.xlsx" class="links">The Bank of Nova Scotia</a></td>  </tr>      <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/content/docs/IFCB2009_275.xlsx" target="_blank" class="links">The Banaskantha Mercantile Cooperative Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_199.xlsx" class="links">The Baramati Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_78.xlsx" class="links">The Cosmos Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_158.xlsx" class="links">The Delhi State Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_146.xlsx" class="links">The Gadchiroli District Central Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_80.xlsx" class="links">The Greater Bombay Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_120.xlsx" class="links">The Gujarat State Cooperative Bank Limited</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_167.xlsx" class="links">The HASTI Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_149.xlsx" class="links">The Jalgaon Peoples Cooperative Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_288.xlsx" class="links">The Kalyan Janata Sahakari Bank Ltd</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_124.xlsx" class="links">The Kangra Central Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_164.xlsx" class="links">The Kangra Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_102.xlsx" class="links">The Karad Urban Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_83.xlsx" class="links">The Karanataka State Cooperative Apex Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_248.xlsx" class="links">The Kerala State Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_270.xlsx" class="links">The Kolhapur Urban Co-op Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_148.xlsx" class="links">The Kurmanchal Nagar Sahkari Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/content/docs/IFCB2009_276.xlsx" target="_blank" class="links">The Malad Sahakari Bank Ltd</a></td>  </tr>  <tr>  <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>  <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_254.xlsx" class="links">The Malkapur Urban Cooperative Bank Limited, Malkapur</a></td></tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_285.xlsx" class="links">The Meghalaya Co-operative Apex Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_86.xlsx" class="links">The Mehsana Urban Cooperative Bank Limited</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_114.xlsx" class="links">The Mumbai District Central Cooperative Bank Limited</a></td>  </tr>  <tr>  <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>  <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_255.xlsx" class="links">The Muslim Cooperative Bank Limited</a></td></tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_122.xlsx" class="links">The Municipal Cooperative Bank Limited, Mumbai</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_87.xlsx" class="links">The Nainital Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_104.xlsx" class="links">The Nasik Merchants Cooperative Bank Limited</a></td>  </tr> <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_197.xlsx" class="links">The Navnirman Cooperative Bank Limited</a></td>  </tr>     <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_268.xlsx" class="links">The Nawanagar Cooperative Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_249.xlsx" class="links">The Nilambur Cooperative Urban Bank Limited, Nilambur</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_256.xlsx" class="links">The Odisha State Cooperative Bank Limited</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_185.xlsx" class="links">The Pandharpur Urban Cooperative Bank Limited, Pandharpur</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_259.xlsx" class="links">The Pusad Urban Cooperative Bank Limited, Pusad</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_267.xlsx" class="links">The Punjab State Cooperative Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_125.xlsx" class="links">The Rajasthan State Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_278.xlsx" class="links">The Satara District Central Cooperative Bank Ltd</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_143.xlsx" class="links">The Seva Vikas Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_91.xlsx" class="links">The Shamrao Vithal Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_206.xlsx" class="links">The Sindhudurg District Central Coop Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_126.xlsx" class="links">The Surat District Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_92.xlsx" class="links">The Surath Peoples Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_93.xlsx" class="links">The Tamilnadu State Apex Cooperative Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_118.xlsx" class="links">The Thane Bharat Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_144.xlsx" class="links">The Thane District Central Cooperative Bank Limited</a></td>  </tr>  <tr>  <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>  <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_263.xlsx" class="links">The Udaipur Urban Cooperative Bank Limited</a></td></tr><tr>  <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>  <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_243.xlsx" class="links">The Urban Cooperative Bank Limited</a></td></tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_135.xlsx" class="links">The Varachha Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_247.xlsx" class="links">The Vijay Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_127.xlsx" class="links">The Vishweshwar Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_95.xlsx" class="links">The West Bengal State Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_165.xlsx" class="links">The Zoroastrian Cooperative Bank Limited</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_222.xlsx" class="links">Thrissur District Cooperative Bank Limited</a></td>  </tr>  <tr><td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_177.xlsx" class="links">TJSB Sahakari Bank Limited</a></td>  </tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_138.xlsx" class="links">Tumkur Grain Merchants Cooperative Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_96.xlsx" class="links">UCO Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_198.xlsx" class="links">Ujjivan Small Finance Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_97.xlsx" class="links">Union Bank of India</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_155.xlsx" class="links">United Overseas Bank</a></td>  </tr>    <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_202.xlsx" class="links">Utkarsh Small Finance Bank</a></td>  </tr>    <tr>  <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>  <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_257.xlsx" class="links">Uttar Pradesh Cooperative Bank Limited</a></td></tr><tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_230.xlsx" class="links">Vasai Janata Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_139.xlsx" class="links">Vasai Vikas Sahakari Bank Limited</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_128.xlsx" class="links">Woori Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_100.xlsx" class="links">Yes Bank</a></td>  </tr>  <tr>    <td align="center" valign="top"><img src="https://www.rbi.org.in/images/bullet3.gif"></td>    <td><a href="https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_156.xlsx" class="links">Zila Sahkari Bank Limited Ghaziabad</a></td></tr></table></td></tr>
+                        </table>
+                        <br />
+                      
+                    </div>                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="#top" class="scrollToTop" id="backToTop">Top</a>
+<footer class="footer">
+<div class="footer">
+  <div class="container_12">
+    <div class="grid_9" style="width:895px !important">
+      <h4><span class="blue">More</span> Links </h4>
+      <div class="grid_2 alpha" style="width:150px !important">
+        <ul class="footerlist">
+          <!--<li><a target="_blank" href="/Scripts/ExternalResearchSchemes.aspx">Research Portal</a></li>-->
+          <li><a target="_blank" href="https://www.rbi.org.in/FinancialEducation/">Financial Education</a></li><!--https://www.rbi.org.in/commonperson/English/Scripts/Home.aspx-->
+	  <li><a target="_blank" href="https://ncfe.org.in/e-lms">E-LMS</a></li>
+	  <li><a target="_blank" href="https://rbikehtahai.rbi.org.in/">RBI Kehta Hai</a></li>
+          <li><a href="/Scripts/FAQDisplay.aspx">FAQs</a></li>
+          <!--<li><a href="/Scripts/Glossary.aspx">Glossary</a></li>-->
+          <li><a href="/Scripts/IFSCMICRDetails.aspx">IFSC/MICR Codes</a></li>
+        </ul>
+      </div>
+      <div class="grid_2 omega" style="width:215px !important;">
+        <ul class="footerlist">
+          <li><a href="/Scripts/BS_ViewTenders.aspx">Tenders</a></li>
+          <li><a target="_blank" href="https://opportunities.rbi.org.in/scripts/index.aspx">Opportunities<font>@</font>RBI</a></li>
+          <li><a href="/Scripts/HolidayMatrixDisplay.aspx">Bank Holidays</a></li>
+          <li><a href="/Scripts/BS_ViewForms.aspx">Forms</a></li>
+
+        </ul>
+      </div>
+      <div class="grid_2 alpha omega" style="width:254px !important;">
+        <ul class="footerlist">
+          <li><a href="/Scripts/EventsDisplay.aspx">Events</a></li>
+          <!--<li><a href="/Scripts/PublicEngagement.aspx">Public Speaking Engagements</a></li>-->
+          <li><a href="/Scripts/rbi_clarification.aspx">RBI Clarifications</a></li>
+	  <li><a href="/Scripts/Righttoinfoact.aspx">Right to Information Act</a></li>
+            <li><a href="/Scripts/OtherLinks.aspx">Important Websites</a></li>
+          <!--<li><a href="/Scripts/OtherLinks.aspx">Related Links</a></li>-->
+	  <li><a href="https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh30122022.pdf">RBI's Core Purpose, Values and Vision</a></li>
+        </ul>
+      </div>
+      <div class="grid_2" style="width:215px !important;">
+        <ul class="footerlist">
+          
+          <li><a href="/Scripts/CitiChart.aspx">Citizens' Charter</a></li>
+          <li><a href="/Scripts/Timlines.aspx">Timelines for Regulatory Approvals</a></li>
+          <li><a href="/Scripts/Complaints.aspx">Complaints</a></li>
+	  <li><a href="https://shabdavali.rbi.org.in/">Banking Glossary</a></li>
+          <li><a href="/Scripts/helpdesk.aspx">Contact Us</a></li>
+	  
+        </ul>
+      </div>
+    </div>
+    <div class="grid_3" style="width:135px !important">
+      <h4><span class="blue">Follow</span> RBI </h4>
+      <ul class="footerlist">
+        <li><a href="/Scripts/rss.aspx"><img src="/images/rss-icon.png" alt="Subscribe to RSS" class="rss"/>RSS</a></li>
+        <li><a href="https://twitter.com/RBI" target="_blank" class="twitter"><img src="/images/Twitter_Logo_Blue.png" width="22px" height ="22px" alt="Follow RBI on Twitter" class="twitter"/>Twitter</a></li>
+        <!--<li><a href="https://www.youtube.com/channel/UCIfCOl43tunZVNYafeC4RQA" class="videos" target="_blank"><img src="/images/videos-icon.png" alt="Check RBI Videos" class="videos"/>Videos</a></li>-->
+	<li><a href="https://www.youtube.com/channel/UCIfCOl43tunZVNYafeC4RQA" class="videos" target="_blank"><img src="/images/youtube.png" alt="Check RBI Videos" class="videos"/>YouTube</a></li>
+	<li>
+   	 Download Mobile App<br> 
+   	 <a href="https://play.google.com/store/apps/details?id=com.reservebankofindia.app" target="_blank"><img src="/images/Android.png" alt="Android App" class="rss" style="width:17px" >Play Store</a><br>
+	<a href="https://apps.apple.com/us/app/reserve-bank-of-india/id1154394549?ls=1" target="_blank"><img src="/images/IOS.png" alt="Apple App" class="rss" style="width:18px;height:17px">App Store</a>
+	</li>
+
+      </ul>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="copyright">
+    <div class="container_12">
+      <div class="grid_6 pull_left" >&copy; Reserve Bank of India. All Rights Reserved.</div>
+      <div class="grid_5 pull_right" ><a href="/Scripts/sitemap.aspx">Sitemap</a> | <a href="/Scripts/Disclaimer.aspx">Disclaimer</a></div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+  
+
+<!--Welcome note-->
+
+  <div id="boxesWN">
+  <div id="dialogWN" class="window" style="top:100px;">
+  <div> <img width="60" height="60" src="/images/Rbinote.jpeg" alt="Rbi note" /> </div>
+   <table class="WelcomeNote" >
+   <tr>
+   <td style="float:right;">
+
+   April 14, 2015
+   </td>
+   </tr>
+    <tr>
+  
+    <td >
+    
+   Dear All
+    </td>
+    </tr>
+     <tr>
+     <td >
+     
+  Welcome to the refurbished site of the Reserve Bank of India. 
+    </td>
+   
+    </tr>
+    <tr>
+    <td >
+    
+  The two most important features of the site are: One, in addition to the default site, the refurbished site also has all the information bifurcated functionwise; two, a much improved search – well, at least we think so but you be the judge. 
+    </td>
+   
+    </tr>
+
+      <tr>
+    <td>
+   With this makeover, we also take a small step into social media. We will now use Twitter (albeit one way) to send out alerts on the announcements we make and YouTube to place in public domain our press conferences, interviews of our top management, events, such as, town halls and of course, some films aimed at consumer literacy.  
+    </td>
+   
+    </tr>
+    <tr>
+    <td>
+    The site can be accessed through most browsers and devices; it also meets accessibility standards. 
+    </td>
+    </tr>
+    <tr>
+    <td>
+    Please save the url of the refurbished site in your favourites as we will give up the existing site shortly and register or re-register yourselves for receiving RSS feeds for uninterrupted alerts from the Reserve Bank. 
+    </td>
+    </tr>
+    <tr>
+    <td>
+    Do feel free to give us your feedback by clicking on the feedback button on the right hand corner of the refurbished site. 
+    </td>
+    </tr>
+    <tr>
+    <td>
+    Thank you for your continued support.<br /><br />
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <strong>
+    Department of Communication <br />
+Reserve Bank of India</strong>
+
+    </td>
+    </tr>
+	<tr><td id="popupfootWN"><a href="#" class="close agree" style="float:right" >Next</a></td></tr>
+    </table>
+   <!-- <div id="popupfootWN"> <a href="#" class="close agree" style="float:right" >Next</a>    </div>--><!--<img src="../images/button_close.gif" alt="Close" class="close agree" />-->
+  </div>
+  <div id="maskWN" style="width:100% !important"></div>
+
+<!--<div id="feedbackbtn"><a href="#"><div align="center" class="feedbacktext">Feedback</div></a></div>-->
+
+</div>
+</div>
+</footer>
+<!--<script type="text/javascript" src="/js/URLchange.js"></script>-->
+<!-- For live comment out below line.-->
+
+<script src="/js/ReplaceURL.js" type="text/javascript"></script>
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript">
+
+
+    //this is for floating TOP link
+    
+    $(document).ready(function () {
+
+        var offset = 230;
+        var duration = 500;
+
+
+        jQuery(window).scroll(function () {
+            if (jQuery(this).scrollTop() > offset) {
+                jQuery('.scrollToTop').fadeIn(duration);
+                // $('#backToTop').css('right', (diffWidth / 2) - 6);
+            } else {
+                jQuery('.scrollToTop').fadeOut(duration);
+                //  $('#backToTop').css('right', (diffWidth / 2) - 6);
+            }
+        });
+
+        //        $('a[href*=#]:not([href=#])').click(function () {
+
+        //            if (location.pathname.replace(/^\//, '') == window.location.pathname.replace(/^\//, '') && location.hostname == window.location.hostname) {
+
+        //                var target = $(this.hash);
+        //                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+        //                if (target.length) {
+        //                    $('html,body').animate({
+        //                        scrollTop: target.offset().top
+        //                    }, 800);
+        //                    return false;
+        //                }
+        //            }
+        //        });
+
+        $('.scrollToTop').click(function () {
+            $('html, body').animate({ scrollTop: 0 }, 800);
+            return false;
+        });
+    });
+
+
+    //Below code is for floating left panel and floating tree structure
+    //first if condition is for functionwise pages and 2nd one for rest all
+    $(window).scroll(function () {
+
+        if ($('div.banner2').length) {
+
+            if ($(window).scrollTop() >= 265) {
+                $('#menubar').css("position", "fixed");
+                $('#menubar').css("width", "240px");
+                $('#menubar').css("margin-top", "-281px");
+                $('.content_area').css("margin-left", "252px");
+
+                $('.sidebar_nav').css("position", "fixed");
+                $('.sidebar_nav').css("margin-top", "-200px");
+                $('.sidebar_nav').css("width", "236px");
+
+
+                $('#DateSettree_lbltree').css('position', 'fixed');
+                $('#DateSettree_lbltree').css('margin-top', '-281px');
+
+            }
+
+            else {
+                $('#menubar').css("position", "");
+                $('#menubar').css("width", "");
+                $('#menubar').css("margin-top", "");
+                $('.content_area').css("margin-left", "");
+
+                $('.sidebar_nav').css("position", "");
+                $('.sidebar_nav').css("margin-top", "");
+                $('.sidebar_nav').css("width", "");
+
+
+
+                $('#DateSettree_lbltree').css('position', '');
+                $('#DateSettree_lbltree').css('margin-top', '');
+            }
+
+        }
+
+        else if ($(window).scrollTop() >= 185) {
+            $('#menubar').css("position", "fixed");
+            $('#menubar').css("width", "240px");
+            $('#menubar').css("margin-top", "-200px");
+            $('.content_area').css("margin-left", "252px");
+
+            $('.sidebar_nav').css("position", "fixed");
+            $('.sidebar_nav').css("margin-top", "-200px");
+            $('.sidebar_nav').css("width", "236px");
+
+
+            $('#DateSettree_lbltree').css('position', 'fixed');
+            $('#DateSettree_lbltree').css('margin-top', '-200px');
+
+        }
+
+        else {
+            $('#menubar').css("position", "");
+            $('#menubar').css("width", "");
+            $('#menubar').css("margin-top", "");
+            $('.content_area').css("margin-left", "");
+
+            $('.sidebar_nav').css("position", "");
+            $('.sidebar_nav').css("margin-top", "");
+            $('.sidebar_nav').css("width", "");
+
+
+            $('#DateSettree_lbltree').css('position', '');
+            $('#DateSettree_lbltree').css('margin-top', '');
+        }
+//        if ($(window).scrollTop() >= 235) {
+
+//            $('#DateSettree_lbltree').css('height', '183px');
+//            $('#DateSettree_lbltree').css('overflow-y', 'scroll');
+//            $('#DateSettree_lbltree').css('width', '100px');
+
+//        }
+//        else {
+//            $('#DateSettree_lbltree').css('height', '');
+//            $('#DateSettree_lbltree').css('overflow-y', '');
+//            $('#DateSettree_lbltree').css('width', '');
+
+//        }
+
+       
+    });
+	
+       // $(window).unload(function () {
+       //     $.cookies.del('feedback_Cookie'); 
+       // });
+    $(document).ready(function () {
+	
+	
+		  $('.window .close').click(function (e) {
+            //Cancel the link behavior
+            e.preventDefault();
+            $.cookie('feedback_Cookie', 'Yes', { expires: 365, path: '/' });
+            $('#maskWN').hide();
+            $('.window').hide();
+            var scroll = $(window).scrollTop();
+            $("html").scrollTop(scroll);
+        });
+		
+		 $('#maskWN').click(function () {
+            $(this).hide();
+            $.cookie('feedback_Cookie', 'Yes', { expires: 365, path: '/' });
+            $('.window').hide();
+
+        });
+
+        //        if ($.cookie('feedback_Cookie') == null) {
+        //            var id = '#dialog';
+
+        //            //Get the screen height and width
+        //            var maskHeight = $(document).height();
+        //            var maskWidth = $(window).width();
+        //           
+
+        //            //Set heigth and width to mask to fill up the whole screen
+        //            $('#mask').css({ 'width': '100%', 'height': '100%','position':'fixed' });
+
+        //            //transition effect
+        //            $('#mask').fadeIn(500);
+        //            $('#mask').fadeTo("slow", 0.9);
+
+        //            //Get the window height and width
+        //            var winH = $(window).height();
+        //            var winW = $(window).width();
+
+        //            //Set the popup window to center
+        //            $(id).css('top', winH / 2 - $(id).height() / 2);
+        //            $(id).css('left', winW / 2 - $(id).width() / 2);
+
+        //            //transition effect
+        //            $(id).fadeIn(2000);
+
+
+
+        //        }
+//        $('blockquote p').css('margin','auto');
+//        $('blockquote blockquote blockquote p').contents().contents().unwrap();
+//        $('blockquote blockquote blockquote').contents().unwrap();
+//        $('blockquote blockquote').contents().unwrap();
+//        $('blockquote').contents().unwrap();
+        
+
+        //if close button is clicked
+        $('.window .close').click(function (e) {
+            //Cancel the link behavior
+            e.preventDefault();
+            $.cookie('feedback_Cookie', 'Yes', { expires: 365, path: '/' });
+            $('#mask').hide();
+            $('.window').hide();
+            var scroll = $(window).scrollTop();
+            $("html").scrollTop(scroll);
+        });
+
+        //if mask is clicked
+        $('#mask').click(function () {
+            $(this).hide();
+            $('.window').hide();
+        });
+        $('#feedbackbtn').click(function () {
+            var id = '#dialog';
+
+            //Get the screen height and width
+            var maskHeight = $(document).height();
+            var maskWidth = $(window).width();
+
+            //Set heigth and width to mask to fill up the whole screen
+            //$('#mask').css({ 'width': maskWidth, 'height': maskHeight });
+            $('#mask').css({ 'width': '100%', 'height': '100%', 'position': 'fixed' });
+
+            //transition effect
+            $('#mask').fadeIn(500);
+            $('#mask').fadeTo("slow", 0.9);
+
+            //Get the window height and width
+            var winH = $(window).height();
+            var winW = $(window).width();
+
+            //Set the popup window to center
+            $(id).css('top', winH / 2 - $(id).height() / 2);
+            $(id).css('left', winW / 2 - $(id).width() / 2);
+
+            //transition effect
+            $(id).fadeIn(2000);
+        });
+
+        $('.submit').click(function () {
+            var Name = $("[id*=txtFeedbackName]").val();
+            var Email = $("[id*=txtFeedbackEmail]").val();
+            var Comments = $("[id*=txtFeedbackComments]").val();
+            if (Name == "") {
+
+                alert("Please enter your name");
+                $("[id*=txtFeedbackName]").focus();
+                return false;
+            }
+            else if (Email == "") {
+                alert("Please enter your email");
+                $("[id*=txtFeedbackEmail]").focus();
+                return false;
+            }
+            else if (Email != "" && !ValidateEmail(Email)) {
+                alert("Please enter a valid email address");
+                $("[id*=txtFeedbackEmail]").focus();
+                return false;
+            }
+
+            else if (Comments == "") {
+
+                alert("Please enter some comments");
+                $("[id*=txtFeedbackComments]").focus();
+                return false;
+            }
+
+            else {
+                $('[id*=Button1]').attr('disabled', 'disabled');
+
+                var param = { Name: Name, EmailID: Email, Comments: Comments };
+                $.ajax({
+                    type: "POST",
+                    url: "../Home.aspx/SaveFeedback",
+                    data: JSON.stringify(param),
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+
+                    success: function (response) {
+
+                        if (response.d == "0") {
+                            alert("Thank you for your feedback");
+                            $.cookie('feedback_Cookie', 'Yes', { expires: 365, path: '/' });
+                            $('#mask').hide();
+                            $('.window').hide();
+                            $('[id*=Button1]').removeAttr('disabled');
+                            $("[id*=txtFeedbackName]").val("");
+                            $("[id*=txtFeedbackEmail]").val("");
+                            $("[id*=txtFeedbackComments]").val("");
+                        }
+                        else {
+                            alert("Please try again");
+                            $('[id*=Button1]').removeAttr('disabled');
+
+
+                        }
+
+                    }
+                });
+            }
+
+        });
+
+        function ValidateEmail(email) {
+            var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+            return expr.test(email);
+        };
+
+        //        $('#divArchiveMain').click(function () {
+        //            
+        //            if ($(window).scrollTop() >= 235) {
+
+        //                $('#DateSettree_lbltree').css('height', '181px');
+        //                $('#DateSettree_lbltree').css('overflow-y', 'scroll');
+        //                $('#DateSettree_lbltree').css('width', '100px');
+
+        //            }
+        //            else {
+        //                $('#DateSettree_lbltree').css('height', '');
+        //                $('#DateSettree_lbltree').css('overflow-y', '');
+        //                $('#DateSettree_lbltree').css('width', '');
+
+        //            }
+        //        });
+
+        $('a.style1').each(function () {
+
+            var $this = $(this);
+            var aHref = $this.attr('class');
+            $this.attr('class', aHref.replace('style1', 'links'));
+        });
+    });
+
+</script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61369961-1', 'auto');
+  ga('send', 'pageview');
+
+</script></form>
+</body>
+</html>
+<script type="text/javascript" src="/js/plugins.js"></script>
+<script type="text/javascript" src="/js/script.js"></script>
+<script type="text/javascript" src="/js/Scroll.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $('img').each(function(key, val){
+         $(val).attr('src', $(val).attr('src').replace("http://", "https://"));
+    });
+
+	var urls=window.location.href;
+	var link1="https://rbi.org.in/Scripts/BS_ViewContent.aspx?Id=309";
+	var link2="https://www.rbi.org.in/Scripts/BS_ViewContent.aspx?Id=309";
+	urls=urls.toLowerCase();
+	link1=link1.toLowerCase();
+	link2=link2.toLowerCase();
+	if (urls==link1 || urls==link2)
+	{
+		window.location.href="https://rbi.org.in/Scripts/category.aspx";
+	}
+});
+</script>"""
